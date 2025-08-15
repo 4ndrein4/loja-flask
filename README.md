@@ -52,7 +52,7 @@ loja_flask/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/loja.git
+git clone https://github.com/seu-usuario/loja-flask.git
 cd loja
 ```
 
