@@ -53,7 +53,7 @@ loja_flask/
 
 ```bash
 git clone https://github.com/seu-usuario/loja-flask.git
-cd loja
+cd loja-flask
 ```
 
 ### 2. Criar e ativar o ambiente virtual
